@@ -7,5 +7,7 @@ from the top into a seven-column, six-row vertically suspended grid. The pieces 
 The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own symbols/colored discs.
 
 
-https://github.com/fabioweck/Connect4-Game-Project/assets/115494238/a2ed3666-dcc7-4a4f-8ca9-97d91b41ae9f
+
+https://github.com/fabioweck/Connect4-Game-Project/assets/115494238/1bb641f2-97cf-4b72-bdf4-e35d09c959c4
+
 "A sample of the game in action!"
